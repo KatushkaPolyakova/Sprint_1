@@ -4,7 +4,7 @@ def digit_root(num):
         summary = 0
         for i in num_str:
             summary +=int(i)
-            num = summarygit
+            num = summary
     return num
 
 
